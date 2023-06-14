@@ -1,4 +1,4 @@
-# eco_evolutionary_factors_and_hgt
+# Analysis scripts from "A global survey of eco-evolutionary pressures acting on horizontal gene transfer"
 
 This repository contains scripts used for generating and analysis of the horizontal gene transfer event data set.
 
